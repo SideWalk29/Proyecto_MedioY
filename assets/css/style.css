@@ -1,0 +1,59 @@
+
+
+html {
+    font-size: 100%;
+}
+
+.centrado {
+    margin: 0 auto;
+}
+.border {
+    min-height: 18rem;
+    border: 0.4rem solid red;
+}
+
+.contenedor {
+    width: 85%;
+    height: auto;
+}
+
+header {
+    width: 100%;
+    min-height: 15rem;
+    background-color: black;
+}
+
+nav {
+    min-height: 6rem;
+    background-color: darkorange;
+}
+
+.carrusel {
+    min-height: 25rem;
+    background-color: pink;
+}
+
+.content {
+    min-height: 40rem;
+    background-color: brown;
+    display: flex;
+
+}
+
+
+main {
+    width: 60%;
+    min-height: 40rem;
+    background-color:darkorange;
+}
+
+aside {
+    width: 40%;
+    min-height: 40rem;
+    background-color: chartreuse;
+}
+
+footer {
+    min-height: 12rem;
+    background-color: black;
+}
